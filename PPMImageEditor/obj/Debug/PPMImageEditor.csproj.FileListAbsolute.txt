@@ -1,0 +1,14 @@
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.Cache
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.xml
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+C:\Users\AdolfoMoreno\Downloads\PPMImageEditor\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb
